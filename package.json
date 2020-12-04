@@ -1,0 +1,11 @@
+{
+  "name": "sven-build",
+  "version": "1.0.0",
+  "main": "bin/index.js",
+  "repository": "https://github.com/henryhamon/sven-builder.git",
+  "author": "Henry Hamon",
+  "license": "MIT",
+  "bin": {
+    "sven": "./bin/index.js"
+  }
+}
