@@ -2,7 +2,7 @@
   "name": "sven-build",
   "version": "1.0.0",
   "main": "bin/index.js",
-  "repository": "https://github.com/henryhamon/sven-builder.git",
+  "repository": "https://github.com/henryhamon/sven-cli.git",
   "author": "Henry Hamon",
   "license": "MIT",
   "bin": {
