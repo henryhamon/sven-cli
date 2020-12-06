@@ -10,6 +10,9 @@
   },
   "dependencies": {
     "axios": "^0.21.0",
+    "fs": "^0.0.1-security",
+    "js-beautify": "^1.13.0",
+    "path": "^0.12.7",
     "yargs": "^16.1.1"
   }
 }
